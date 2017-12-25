@@ -1,0 +1,26 @@
+{
+  "name": "fis3-prepackager-tbmap",
+  "version": "1.0.1",
+  "description": "a plugin for map in tb",
+  "main": "fis_test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "source-map": "^0.5.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuanzhen/fis3_package_tbmap.git"
+  },
+  "keywords": [
+    "package",
+    "fis"
+  ],
+  "author": "yuanzhen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuanzhen/fis3_package_tbmap/issues"
+  },
+  "homepage": "https://github.com/yuanzhen/fis3_package_tbmap#readme"
+}
